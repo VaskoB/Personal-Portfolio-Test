@@ -152,8 +152,6 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
 .sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li > a:hover,.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li > a:focus,.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li.active>a{color: #ff6e51;}
 /*.nav li*/
 
-
-
 /*.menu-ui-design*/
 .menu-ui-design{overflow-y:scroll;height: 350px;}
 .menu-ui-design::-webkit-scrollbar {
@@ -180,8 +178,10 @@ nav.navbar.bootsnav .navbar-toggle {
 nav.navbar.bootsnav .navbar-toggle i{color: #ff6e51;}
 /*.navbar-toggle */
 
-
-
+/*Language button*/
+.language {
+    padding: 25px 0px 25px;
+}
 /*-------------------------------------
         3.  Welcome-hero
 --------------------------------------*/
